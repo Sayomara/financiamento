@@ -1,0 +1,9 @@
+br\senai\sc\financiamento\dao\ClienteDAO.class
+br\senai\sc\financiamento\ws\TesteWS.class
+br\senai\sc\financiamento\entity\Cliente.class
+br\senai\sc\financiamento\ws\ParcelaWS$1.class
+br\senai\sc\financiamento\service\ParcelaService.class
+br\senai\sc\financiamento\ws\ParcelaWS.class
+br\senai\sc\financiamento\entity\Parcela.class
+br\senai\sc\financiamento\factory\ConnectionFactory.class
+br\senai\sc\financiamento\entity\Financiamento.class

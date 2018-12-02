@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>Financiamento</title>
+	<meta charset="utf-8">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="js/tela1.js"></script>
+</head>
+<body>
+<div>
+	<p>
+		<label>Valor Imóvel</label>
+		<input type="number" id="valor">
+	</p>
+	<p>
+		<label>Quantidade Parcelas</label>
+		<input type="number" id="quantidade">
+	</p>
+	<p>
+		<label>Juros</label>
+		<input type="number" id="juros">
+	</p>
+	<p>
+		<label>Percentual de entrada</label>
+		<input type="number" id="percentual">
+	</p>
+	<button id="simular" type="button" onclick="valid_form()">Simular</button>
+</div>
+<div id="proposta"></div>
+</body>
+</html>
